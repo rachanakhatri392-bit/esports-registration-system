@@ -1,6 +1,7 @@
 # Esports Registration System
 
 A web-based application developed using HTML, CSS, PHP, and MySQL to manage participant registration for esports tournaments.
+🌐 **Live Demo:** https://ukesports.infinityfreeapp.com/esports
 
 ## Features
 - User registration
@@ -16,6 +17,9 @@ A web-based application developed using HTML, CSS, PHP, and MySQL to manage part
 - PHP
 - MySQL
 - XAMPP
+## ADMIN LOGIN DETAILS
+Username: admin
+Password: password123
 
 ## How to Run Locally
 1. Place the project inside `C:\xampp\htdocs\esports`
